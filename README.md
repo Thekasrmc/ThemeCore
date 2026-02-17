@@ -22,10 +22,8 @@ Forge your Windows experience — switch between **Dark Mode** and **Light Mode*
 > **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization.
 
 ## 📦 Installation
-Clone the repository:
-git clone https://github.com/YOUR-USERNAME/ThemeForge.git or download as ZIP.
-
-Then
+Clone the repository:  git clone https://github.com/Thekasrmc/ThemeForge.git or download as ZIP.
+### Then:
 1. Navigate into the folder.
 2. Double-click `theme-switcher.bat`
 3. Click **Yes** when Windows asks for Administrator permission
