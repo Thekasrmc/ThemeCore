@@ -63,9 +63,13 @@ ThemeForge
 └── theme-switcher.bat
 ```
 ## 🛡️ Disclaimer
+This tool modifies certain Windows personalization settings. It has been tested on Windows 11 Pro without issues; however, system behavior may vary.
 
-This tool does not bypass or modify Windows activation mechanisms.  
-Please activate Windows through official Microsoft channels.
+By using this software, you accept full responsibility for any changes made to your system. The developer is not liable for any damages or system issues resulting from its use.
+
+> **Note:**This tool does not bypass or modify Windows activation mechanisms.  
+>Please activate Windows through official Microsoft channels.
+
 ## 📜 License
 MIT License © 2026
 
