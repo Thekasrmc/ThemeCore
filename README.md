@@ -51,6 +51,7 @@ Replace the images inside:
 - Rename your image to:
   `ROGDARE.jpg`
 - Must be `.jpg`
+
 Example structure:
 
 ```
