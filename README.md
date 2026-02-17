@@ -19,7 +19,7 @@ Forge your Windows experience — switch between **Dark Mode** and **Light Mode*
 - Windows 10 / 11
 - PowerShell
 - Run as Administrator
-> Note: The Lock Screen feature may work only on Windows 11 Pro and may not function on some devices due to system restrictions.
+> **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization.
 
 ## 📦 Installation
 Clone the repository:
