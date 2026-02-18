@@ -47,7 +47,7 @@ Replace the images inside:
 - Must be `.png` or `.jpg`
 ### Light Mode
 - Rename your image to:
-  `Light.jpg`
+  `Light.png`
 - Must be `.png` or `.jpg`
 
 Example structure:
