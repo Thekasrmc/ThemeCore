@@ -51,7 +51,7 @@ Replace the images inside:
 - Rename your image to:
   `Light.png`
 - Must be `.png` or `.jpg`
-
+### Don't forget to delete old photos.
 Example structure:
 
 ```
