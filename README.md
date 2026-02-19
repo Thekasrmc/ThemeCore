@@ -5,8 +5,7 @@
 # 🎨 ThemeForge
 
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
->**Note:** The tool can run on both The and non-activated Windows installations.
-
+>**Note:** The tool works on both activated and non-activated Windows installations.
 
 ## 🚀 Features
 - 🌙 Switch Dark / Light Mode
@@ -15,6 +14,12 @@ Forge your Windows experience — switch between Dark Mode and Light Mode, chang
 - 🔄 Reload Windows Explorer
 - 🔊 Optional Notification Sound
 - 📊 Visual Loading Progress Bar
+## ⚡Quick Start
+
+1. Download ZIP from Releases
+2. Extract the folder
+3. Right-click theme-switcher.bat → Run as Administrator
+4. Select 0 or 1
 
 ## ⚠️ Requirements
 - Windows 10 / 11
@@ -23,8 +28,11 @@ Forge your Windows experience — switch between Dark Mode and Light Mode, chang
 > **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization. When supported, the lock screen image will match the selected wallpaper.
 
 ## 📦 Installation
-Clone the repository:  git clone https://github.com/Thekasrmc/ThemeForge.git or download as ZIP.
-ZIP: https://github.com/Thekasrmc/ThemeForge/releases
+Clone the repository:
+git clone https://github.com/Thekasrmc/ThemeForge.git
+
+Or download from:
+### 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)  (Zip)
 ### Then:
 1. Navigate into the folder.
 2. Double-click `theme-switcher.bat`
