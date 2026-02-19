@@ -59,7 +59,7 @@ ThemeForge
 │   └── Light.jpg
 ├── sounds
 │   └── nalak.wav
-├── theme-switcher.ps1
+├── theme-service.ps1
 └── theme-switcher.bat
 ```
 ## 🛡️ Disclaimer
