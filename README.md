@@ -7,7 +7,7 @@
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
 >**Note:** The tool works on both activated and non-activated Windows installations.
 
-## Features (Latest Version)
+## 🚀Features (Latest Version)
 - 🌙 Instant Dark / Light Mode switching
 - 🖼️ Automatic Desktop & Lock Screen sync
 - 💡 Control Windows 11 Dynamic Lighting (On / Off)
