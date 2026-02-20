@@ -7,37 +7,35 @@
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
 >**Note:** The tool works on both activated and non-activated Windows installations.
 
-## 🚀 Features
-- 🌙 Switch Dark / Light Mode
-- 🖼️ Change Desktop Wallpaper
-- 🔒 Set Lock Screen Image
-- 🔄 Reload Windows Explorer
-- 🔊 Optional Notification Sound
-- 📊 Visual Loading Progress Bar
+## 🚀 Features (Latest Version)
+- 🌙 Switch Dark / Light Mode instantly
+- 🖼️ Automatically apply Desktop Wallpaper
+- 🔒 Set Lock Screen Image (when supported)
+- 🖼️ Lock screen image follows the selected wallpaper
+- 🧠 Smart image detection (prioritizes .png, falls back to .jpg)
+- 🔄 Automatically reload Windows Explorer
+- 🔊 Optional notification sound
+- 📊 Visual loading progress bar
+- ⚡ One-click launch via .bat (UAC confirmation required)
 ## ⚡Quick Start
 
-1. Download ZIP from Releases
+1. Download ZIP from 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)
 2. Extract the folder
-3. Right-click theme-switcher.bat → Run as Administrator
-4. Select 0 or 1
+3. Double-click theme-switcher.bat
+4. Click Yes when Windows asks for Administrator permission
+5. Select:
+- 0 — Dark Mode
+- 1 — Light Mode
+
+Wait for the process to complete.
+
+✅ Done!
 
 ## ⚠️ Requirements
 - Windows 10 / 11
 - PowerShell
 - Run as Administrator
 > **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization. When supported, the lock screen image will match the selected wallpaper.
-
-## 📦 Installation
-Clone the repository:
-git clone https://github.com/Thekasrmc/ThemeForge.git
-
-Or download from:
-### 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)  (Zip)
-### Then:
-1. Navigate into the folder.
-2. Double-click `theme-switcher.bat`
-3. Click **Yes** when Windows asks for Administrator permission
-
 ## 🎛️ Usage
 When the script starts, choose:
 
@@ -53,10 +51,10 @@ To customize your wallpapers, replace the images inside the folder:
 ThemeForge\wallpaper
 ### Dark Mode
 Rename your image to: Dark.png
-Supported formats: `.png` or `.jpg`
+- Supported formats: `.png` or `.jpg`
 ### Light Mode
 Rename your image to: Light.png
-Supported formats: `.png `or `.jpg`
+- Supported formats: `.png `or `.jpg`
 ### Make sure to delete or replace any old images to avoid conflicts. ‼️
 Example structure:
 
@@ -77,15 +75,24 @@ By using this software, you accept full responsibility for any changes made to y
 
 > **Note:**This tool does not bypass or modify Windows activation mechanisms.  
 >Please activate Windows through official Microsoft channels.
+> 
+## 📦 Installation
+Clone the repository:
+git clone https://github.com/Thekasrmc/ThemeForge.git
 
+Or download from:
+### 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)  (Zip)
+### Then:
+1. Navigate into the folder
+2. Double-click theme-switcher.bat
+3. Approve Administrator permission when prompted
+## 🔐 Administrator Permission
+The batch file launches PowerShell with Administrator privileges using Windows’ built-in UAC prompt.
+- No UAC bypass techniques are used
+- No system exploitation
+- User confirmation is always required
 ## 📜 License
 MIT License © 2026
 
 ## 👨‍💻 Author
-Created as a PowerShell learning project and shared as open source.
-## 🔐 Administrator Permission
-
-The batch file launches PowerShell with Administrator privileges using Windows' built-in UAC prompt.
-No UAC bypass techniques are used.
-User confirmation is required.
-
+Created as a PowerShell learning project and shared as open source by TechAsRmc.
