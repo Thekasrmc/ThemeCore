@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_10|11-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-# 🎨 ThemeForge
+# 🎨 ThemeCore
 
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
 >**Note:** The tool works on both activated and non-activated Windows installations.
@@ -56,7 +56,7 @@ Rename your image to: Light.png
 Example structure:
 
 ```
-ThemeForge
+ThemeCore
 ├── wallpaper
 │   ├── Dark.png
 │   └── Light.jpg
