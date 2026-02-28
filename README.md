@@ -6,9 +6,9 @@
 # 🎨 ThemeCore
 
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
-> **Note:** The tool works on both activated and non-activated ndWiows installations.
+> **Note:** The tool works on both activated and non-activated Windows installations.
 
-## 🚀Features (Latest Version)
+## 🚀 Features (Latest Version)
 - 🌙 Instant Dark / Light Mode switching
 - 🖼️ Automatic Desktop & Lock Screen sync
 - 💡 Control Windows 11 Dynamic Lighting (On / Off)
@@ -22,8 +22,8 @@ Forge your Windows experience — switch between Dark Mode and Light Mode, chang
 3. Double-click theme-switcher.bat
 4. Click Yes when Windows asks for Administrator permission
 5. Select:
-- 0 — Dark Mode
-- 1 — Light Mode
+   - 0 — Dark Mode  
+   - 1 — Light Mode
 
 Wait for the process to complete.
 
@@ -72,7 +72,7 @@ This tool modifies certain Windows personalization settings. It has been tested 
 By using this software, you accept full responsibility for any changes made to your system. The developer is not liable for any damages or system issues resulting from its use.
 
 > **Note:** This tool does not bypass or modify Windows activation mechanisms.  
->Please activate Windows through official Microsoft channels.
+> Please activate Windows through official Microsoft channels.
 > 
 ## 📦 Installation
 Clone the repository:
