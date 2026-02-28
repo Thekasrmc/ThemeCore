@@ -1,11 +1,12 @@
+![Version](https://img.shields.io/badge/Version-V1.1.0-green)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10|11-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # 🎨 ThemeCore
 
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
->**Note:** The tool works on both activated and non-activated Windows installations.
+> **Note:** The tool works on both activated and non-activated ndWiows installations.
 
 ## 🚀Features (Latest Version)
 - 🌙 Instant Dark / Light Mode switching
@@ -16,7 +17,7 @@ Forge your Windows experience — switch between Dark Mode and Light Mode, chang
 - ⚡ One-click launch via .bat (UAC confirmation required)
 ## ⚡Quick Start
 
-1. Download ZIP from 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)
+1. Download ZIP from 🌐[Releases](https://github.com/Thekasrmc/ThemeCore/releases)
 2. Extract the folder
 3. Double-click theme-switcher.bat
 4. Click Yes when Windows asks for Administrator permission
@@ -45,13 +46,13 @@ Press Enter and wait for the process to complete.
 ✅ Done!
 ## 🖼️ Use Your Own Wallpaper
 To customize your wallpapers, replace the images inside the folder:
-ThemeForge\wallpaper
+ThemeCore\wallpaper
 ### Dark Mode
 Rename your image to: Dark.png
 - Supported formats: `.png` or `.jpg`
 ### Light Mode
 Rename your image to: Light.png
-- Supported formats: `.png `or `.jpg`
+- Supported formats: `.png` or `.jpg`
 ### Make sure to delete or replace any old images to avoid conflicts. ‼️
 Example structure:
 
@@ -70,15 +71,15 @@ This tool modifies certain Windows personalization settings. It has been tested 
 
 By using this software, you accept full responsibility for any changes made to your system. The developer is not liable for any damages or system issues resulting from its use.
 
-> **Note:**This tool does not bypass or modify Windows activation mechanisms.  
+> **Note:** This tool does not bypass or modify Windows activation mechanisms.  
 >Please activate Windows through official Microsoft channels.
 > 
 ## 📦 Installation
 Clone the repository:
-git clone https://github.com/Thekasrmc/ThemeForge.git
+git clone https://github.com/Thekasrmc/ThemeCore.git
 
 Or download from:
-### 🌐[Releases](https://github.com/Thekasrmc/ThemeForge/releases)  (Zip)
+### 🌐[Releases](https://github.com/Thekasrmc/ThemeCore/releases)  (Zip)
 ### Then:
 1. Navigate into the folder
 2. Double-click theme-switcher.bat
