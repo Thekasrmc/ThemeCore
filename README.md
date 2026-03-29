@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/Version-V1.1.0-green)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows_10|11-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows_10|11-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # 🎨 ThemeCore
